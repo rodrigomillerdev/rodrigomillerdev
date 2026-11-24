@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hello.svg" width="640" alt="Hi, I’m Rodrigo Miller." />
+  <img src="./assets/hello.svg" width="640" alt="Hello, I’m Rodrigo Miller." />
 </p>
 
 <picture>
@@ -8,10 +8,11 @@
   <img src="./assets/hero-city.gif" alt="Rodrigo Miller — Fullstack · AI · Machine Learning" width="100%" />
 </picture>
 
+<h3 align="center">Connect with Me</h3>
+
 <p align="center">
   <a href="mailto:rodrigomiller.developer@gmail.com" title="E-mail"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" height="48" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/rodrigo-miller-170340233" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="48" alt="LinkedIn" /></a>
-  <a href="https://" title="Portfolio"><img src="./assets/portfolio-icon.svg" width="48" height="48" alt="Portfolio" /></a>
 </p>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
@@ -146,7 +147,9 @@ Machine Learning and Deep Learning applied to Computer Vision, focused on detect
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rodrigomillerdev&bg_color=0d1117&color=8B949E&line=00E676&point=CFFFE6&area=true&area_color=00E676&title_color=00E676&hide_border=true&radius=8" width="100%" alt="Contribution graph" />
 </p>
 
-<img src="./assets/footer-matrix.svg" width="100%" alt="Thanks for visiting" />
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<h3 align="center">Connect with Me</h3>
 
 <p align="center">
   <a href="mailto:rodrigomiller.developer@gmail.com" title="E-mail"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" height="48" alt="Gmail" /></a>
