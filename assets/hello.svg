@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="72" viewBox="0 0 640 72" role="img" aria-label="Hi, I’m Rodrigo Miller.">
   <title>Hi, I’m Rodrigo Miller.</title>
   <defs>
-    <clipPath id="type"><rect class="reveal" x="40" y="0" width="506" height="72"/></clipPath>
+    <clipPath id="type"><rect class="reveal" x="67" y="0" width="506" height="72"/></clipPath>
   </defs>
   <style>
     .txt{font:700 34px ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
@@ -10,12 +10,9 @@
     @keyframes reveal{0%{transform:scaleX(0)}45%,85%{transform:scaleX(1)}100%{transform:scaleX(0)}}
     @keyframes move{0%{transform:translateX(0)}45%,85%{transform:translateX(506px)}100%{transform:translateX(0)}}
     @keyframes blink{50%{opacity:0}}
-    .hand{transform-box:fill-box;transform-origin:70% 85%;animation:wave 2.2s ease-in-out infinite}
-    @keyframes wave{0%,60%,100%{transform:rotate(0)}10%,30%{transform:rotate(16deg)}20%{transform:rotate(-8deg)}40%{transform:rotate(-4deg)}50%{transform:rotate(10deg)}}
   </style>
   <g clip-path="url(#type)">
-    <text x="40" y="48" class="txt" fill="#00C853" textLength="506" lengthAdjust="spacingAndGlyphs">Hi, I’m Rodrigo Miller.</text>
+    <text x="67" y="48" class="txt" fill="#00C853" textLength="506" lengthAdjust="spacingAndGlyphs">Hi, I’m Rodrigo Miller.</text>
   </g>
-  <rect class="cur" x="42" y="18" width="3" height="38" fill="#00E676"/>
-  <text class="hand" x="590" y="50" font-size="38" text-anchor="middle" font-family="'Apple Color Emoji','Segoe UI Emoji','Noto Color Emoji',sans-serif">👋</text>
+  <rect class="cur" x="69" y="18" width="3" height="38" fill="#00E676"/>
 </svg>
