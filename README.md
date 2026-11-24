@@ -152,4 +152,6 @@ Pesquisa em **Inteligência Artificial**, **Machine Learning** e **Deep Learning
   <a href="mailto:rodrigomiller.developer@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=120&section=footer" width="100%" alt="rodapé" />
+<p align="center">
+  <img src="./assets/footer-8bit.gif" alt="Rodapé 8-bit animado" width="100%" />
+</p>
