@@ -1,15 +1,20 @@
+<p align="center">
+  <img src="./assets/hello.svg" width="640" alt="Hi, I’m Rodrigo Miller." />
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-city-matrix.gif" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/hero-city.gif" />
   <img src="./assets/hero-city.gif" alt="Rodrigo Miller — Fullstack · AI · Machine Learning" width="100%" />
 </picture>
 
-<p>
-  <a href="https://www.linkedin.com/in/rodrigo-miller-170340233"><img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:rodrigomiller.developer@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.kaggle.com/rmiller021"><img src="https://img.shields.io/badge/Kaggle-111111?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
-  <a href="https://"><img src="https://img.shields.io/badge/Portf%C3%B3lio-111111?style=flat-square&logo=vercel&logoColor=white" alt="Portfólio" /></a>
+<p align="center">
+  <a href="mailto:rodrigomiller.developer@gmail.com" title="E-mail"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" height="48" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/rodrigo-miller-170340233" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="48" alt="LinkedIn" /></a>
+  <a href="https://" title="Portfólio"><img src="./assets/portfolio-icon.svg" width="48" height="48" alt="Portfólio" /></a>
 </p>
+
+<img src="./assets/divider-matrix.svg" width="100%" alt="" />
 
 ### Sobre
 
@@ -28,38 +33,128 @@ Pesquisa em Machine Learning e Deep Learning aplicados à Visão Computacional, 
 
 - Filtros de pré-processamento de imagens para otimização dos dados
 - Normalização e análise de dados para o treinamento de modelos
-
-| Machine Learning | Deep Learning |
-| :-- | :-- |
-| SVM · Logistic Regression | Neural Networks · CNN |
-| Perceptron · Multilayer Perceptron | Transfer Learning |
+- **Machine Learning:** SVM, Logistic Regression, Perceptron, Multilayer Perceptron
+- **Deep Learning:** Neural Networks, CNN, Transfer Learning
 
 </details>
 
+<img src="./assets/divider-matrix.svg" width="100%" alt="" />
+
 ### Stack
 
-| | |
-| :-- | :-- |
-| **IA & Dados** | <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,anaconda,julia&theme=light" height="36" alt="IA" /> |
-| **Front-end** | <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,vite,tailwind,html,css,figma&theme=light" height="36" alt="Front-end" /> |
-| **Back-end** | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,flask,php,laravel,graphql&theme=light" height="36" alt="Back-end" /> |
-| **Dados** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma,supabase,firebase&theme=light" height="36" alt="Bancos de dados" /> |
-| **DevOps** | <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,bash,vercel,aws&theme=light" height="36" alt="DevOps" /> |
-| **Ferramentas** | <img src="https://skillicons.dev/icons?i=vscode,pycharm,postman,notion,obsidian&theme=light" height="36" alt="Ferramentas" /> |
-
-Também: Keras · Pandas · NumPy · Plotly · Seaborn · Jupyter · Google Colab · Hugging Face · LangChain
-
-### GitHub
+**IA & Ciência de Dados**
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rodrigomillerdev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=737373&icon_color=737373&title_color=737373" alt="Estatísticas" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomillerdev&layout=compact&langs_count=8&hide_border=true&hide_title=true&bg_color=00000000&text_color=737373" alt="Linguagens mais usadas" />
+  <a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?theme=dark&i=python" width="48" height="48" alt="Python" /></a>
+  <a href="https://pytorch.org/" title="PyTorch"><img src="https://skillicons.dev/icons?theme=dark&i=pytorch" width="48" height="48" alt="PyTorch" /></a>
+  <a href="https://www.tensorflow.org/" title="TensorFlow"><img src="https://skillicons.dev/icons?theme=dark&i=tensorflow" width="48" height="48" alt="TensorFlow" /></a>
+  <a href="https://keras.io/" title="Keras"><img src="./assets/icons/keras.svg" width="48" height="48" alt="Keras" /></a>
+  <a href="https://scikit-learn.org/" title="scikit-learn"><img src="https://skillicons.dev/icons?theme=dark&i=sklearn" width="48" height="48" alt="scikit-learn" /></a>
+  <a href="https://opencv.org/" title="OpenCV"><img src="https://skillicons.dev/icons?theme=dark&i=opencv" width="48" height="48" alt="OpenCV" /></a>
+  <a href="https://pandas.pydata.org/" title="Pandas"><img src="./assets/icons/pandas.svg" width="48" height="48" alt="Pandas" /></a>
+  <a href="https://numpy.org/" title="NumPy"><img src="./assets/icons/numpy.svg" width="48" height="48" alt="NumPy" /></a>
+  <a href="https://plotly.com/" title="Plotly"><img src="./assets/icons/plotly.svg" width="48" height="48" alt="Plotly" /></a>
+  <a href="https://seaborn.pydata.org/" title="Seaborn"><img src="./assets/icons/seaborn.svg" width="48" height="48" alt="Seaborn" /></a>
+  <a href="https://jupyter.org/" title="Jupyter"><img src="./assets/icons/jupyter.svg" width="48" height="48" alt="Jupyter" /></a>
+  <a href="https://colab.research.google.com/" title="Google Colab"><img src="./assets/icons/googlecolab.svg" width="48" height="48" alt="Google Colab" /></a>
+  <a href="https://huggingface.co/" title="Hugging Face"><img src="./assets/icons/huggingface.svg" width="48" height="48" alt="Hugging Face" /></a>
+  <a href="https://www.langchain.com/" title="LangChain"><img src="./assets/icons/langchain.svg" width="48" height="48" alt="LangChain" /></a>
+  <a href="https://www.anaconda.com/" title="Anaconda"><img src="https://skillicons.dev/icons?theme=dark&i=anaconda" width="48" height="48" alt="Anaconda" /></a>
+  <a href="https://julialang.org/" title="Julia"><img src="https://skillicons.dev/icons?theme=dark&i=julia" width="48" height="48" alt="Julia" /></a>
 </p>
+
+**Front-end**
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=rodrigomillerdev&hide_border=true&background=00000000&ring=737373&fire=737373&currStreakNum=737373&sideNums=737373&currStreakLabel=737373&sideLabels=737373&dates=737373&stroke=73737333&locale=pt_BR" alt="Sequência de contribuições" />
+  <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://skillicons.dev/icons?theme=dark&i=ts" width="48" height="48" alt="TypeScript" /></a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?theme=dark&i=js" width="48" height="48" alt="JavaScript" /></a>
+  <a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?theme=dark&i=react" width="48" height="48" alt="React" /></a>
+  <a href="https://nextjs.org/" title="Next.js"><img src="https://skillicons.dev/icons?theme=dark&i=nextjs" width="48" height="48" alt="Next.js" /></a>
+  <a href="https://vuejs.org/" title="Vue.js"><img src="https://skillicons.dev/icons?theme=dark&i=vue" width="48" height="48" alt="Vue.js" /></a>
+  <a href="https://vitejs.dev/" title="Vite"><img src="https://skillicons.dev/icons?theme=dark&i=vite" width="48" height="48" alt="Vite" /></a>
+  <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://skillicons.dev/icons?theme=dark&i=tailwind" width="48" height="48" alt="Tailwind CSS" /></a>
+  <a href="https://styled-components.com/" title="styled-components"><img src="https://skillicons.dev/icons?theme=dark&i=styledcomponents" width="48" height="48" alt="styled-components" /></a>
+  <a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://skillicons.dev/icons?theme=dark&i=bootstrap" width="48" height="48" alt="Bootstrap" /></a>
+  <a href="https://developer.mozilla.org/docs/Web/HTML" title="HTML"><img src="https://skillicons.dev/icons?theme=dark&i=html" width="48" height="48" alt="HTML" /></a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS" title="CSS"><img src="https://skillicons.dev/icons?theme=dark&i=css" width="48" height="48" alt="CSS" /></a>
+  <a href="https://www.figma.com/" title="Figma"><img src="https://skillicons.dev/icons?theme=dark&i=figma" width="48" height="48" alt="Figma" /></a>
 </p>
 
----
+**Back-end**
 
-<sub>Fique à vontade para explorar meus projetos. Contato: <a href="mailto:rodrigomiller.developer@gmail.com">rodrigomiller.developer@gmail.com</a></sub>
+<p>
+  <a href="https://nodejs.org/" title="Node.js"><img src="https://skillicons.dev/icons?theme=dark&i=nodejs" width="48" height="48" alt="Node.js" /></a>
+  <a href="https://expressjs.com/" title="Express"><img src="https://skillicons.dev/icons?theme=dark&i=express" width="48" height="48" alt="Express" /></a>
+  <a href="https://nestjs.com/" title="NestJS"><img src="https://skillicons.dev/icons?theme=dark&i=nestjs" width="48" height="48" alt="NestJS" /></a>
+  <a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="https://skillicons.dev/icons?theme=dark&i=fastapi" width="48" height="48" alt="FastAPI" /></a>
+  <a href="https://www.djangoproject.com/" title="Django"><img src="https://skillicons.dev/icons?theme=dark&i=django" width="48" height="48" alt="Django" /></a>
+  <a href="https://flask.palletsprojects.com/" title="Flask"><img src="https://skillicons.dev/icons?theme=dark&i=flask" width="48" height="48" alt="Flask" /></a>
+  <a href="https://www.php.net/" title="PHP"><img src="https://skillicons.dev/icons?theme=dark&i=php" width="48" height="48" alt="PHP" /></a>
+  <a href="https://laravel.com/" title="Laravel"><img src="https://skillicons.dev/icons?theme=dark&i=laravel" width="48" height="48" alt="Laravel" /></a>
+  <a href="https://graphql.org/" title="GraphQL"><img src="https://skillicons.dev/icons?theme=dark&i=graphql" width="48" height="48" alt="GraphQL" /></a>
+</p>
+
+**Bancos de Dados**
+
+<p>
+  <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://skillicons.dev/icons?theme=dark&i=postgres" width="48" height="48" alt="PostgreSQL" /></a>
+  <a href="https://www.mysql.com/" title="MySQL"><img src="https://skillicons.dev/icons?theme=dark&i=mysql" width="48" height="48" alt="MySQL" /></a>
+  <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://skillicons.dev/icons?theme=dark&i=mongodb" width="48" height="48" alt="MongoDB" /></a>
+  <a href="https://redis.io/" title="Redis"><img src="https://skillicons.dev/icons?theme=dark&i=redis" width="48" height="48" alt="Redis" /></a>
+  <a href="https://www.prisma.io/" title="Prisma"><img src="https://skillicons.dev/icons?theme=dark&i=prisma" width="48" height="48" alt="Prisma" /></a>
+  <a href="https://supabase.com/" title="Supabase"><img src="https://skillicons.dev/icons?theme=dark&i=supabase" width="48" height="48" alt="Supabase" /></a>
+  <a href="https://firebase.google.com/" title="Firebase"><img src="https://skillicons.dev/icons?theme=dark&i=firebase" width="48" height="48" alt="Firebase" /></a>
+</p>
+
+**DevOps & Cloud**
+
+<p>
+  <a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?theme=dark&i=git" width="48" height="48" alt="Git" /></a>
+  <a href="https://github.com/" title="GitHub"><img src="https://skillicons.dev/icons?theme=dark&i=github" width="48" height="48" alt="GitHub" /></a>
+  <a href="https://github.com/features/actions" title="GitHub Actions"><img src="https://skillicons.dev/icons?theme=dark&i=githubactions" width="48" height="48" alt="GitHub Actions" /></a>
+  <a href="https://www.docker.com/" title="Docker"><img src="https://skillicons.dev/icons?theme=dark&i=docker" width="48" height="48" alt="Docker" /></a>
+  <a href="https://www.linux.org/" title="Linux"><img src="https://skillicons.dev/icons?theme=dark&i=linux" width="48" height="48" alt="Linux" /></a>
+  <a href="https://www.gnu.org/software/bash/" title="Bash"><img src="https://skillicons.dev/icons?theme=dark&i=bash" width="48" height="48" alt="Bash" /></a>
+  <a href="https://vercel.com/" title="Vercel"><img src="https://skillicons.dev/icons?theme=dark&i=vercel" width="48" height="48" alt="Vercel" /></a>
+  <a href="https://aws.amazon.com/" title="AWS"><img src="https://skillicons.dev/icons?theme=dark&i=aws" width="48" height="48" alt="AWS" /></a>
+</p>
+
+**Ferramentas**
+
+<p>
+  <a href="https://code.visualstudio.com/" title="VS Code"><img src="https://skillicons.dev/icons?theme=dark&i=vscode" width="48" height="48" alt="VS Code" /></a>
+  <a href="https://www.jetbrains.com/pycharm/" title="PyCharm"><img src="https://skillicons.dev/icons?theme=dark&i=pycharm" width="48" height="48" alt="PyCharm" /></a>
+  <a href="https://www.postman.com/" title="Postman"><img src="https://skillicons.dev/icons?theme=dark&i=postman" width="48" height="48" alt="Postman" /></a>
+  <a href="https://www.notion.so/" title="Notion"><img src="https://skillicons.dev/icons?theme=dark&i=notion" width="48" height="48" alt="Notion" /></a>
+  <a href="https://obsidian.md/" title="Obsidian"><img src="https://skillicons.dev/icons?theme=dark&i=obsidian" width="48" height="48" alt="Obsidian" /></a>
+</p>
+
+<img src="./assets/divider-matrix.svg" width="100%" alt="" />
+
+### Estatísticas
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodrigomillerdev&theme=github_dark" width="100%" alt="Resumo do perfil" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rodrigomillerdev&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&bg_color=00000000&title_color=00E676&icon_color=00E676&text_color=8B949E&hide_border=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomillerdev&layout=compact&langs_count=8&bg_color=00000000&title_color=00E676&icon_color=00E676&text_color=8B949E&hide_border=true" alt="Linguagens mais usadas" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rodrigomillerdev&hide_border=true&background=00000000&ring=00E676&fire=00E676&currStreakNum=00E676&currStreakLabel=00E676&sideNums=00C853&sideLabels=8B949E&dates=8B949E&stroke=00E67644&locale=pt_BR" alt="Sequência de contribuições" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rodrigomillerdev&bg_color=0d1117&color=8B949E&line=00E676&point=CFFFE6&area=true&area_color=00E676&title_color=00E676&hide_border=true&radius=8" width="100%" alt="Gráfico de atividade" />
+</p>
+
+<img src="./assets/divider-matrix.svg" width="100%" alt="" />
+
+<img src="./assets/footer-matrix.svg" width="100%" alt="Obrigado pela visita" />
+
+<p align="center">
+  <a href="mailto:rodrigomiller.developer@gmail.com" title="E-mail"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" height="48" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/rodrigo-miller-170340233" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="48" alt="LinkedIn" /></a>
+</p>
