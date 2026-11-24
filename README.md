@@ -1,14 +1,10 @@
-<p align="center">
-  <img src="./assets/hello.svg" width="640" alt="Hello, I’m Rodrigo Miller." />
-</p>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-city-matrix.gif" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/hero-city.gif" />
   <img src="./assets/hero-city.gif" alt="Rodrigo Miller — Fullstack · AI · Machine Learning" width="100%" />
 </picture>
+
+<p align="center"><b>Software Engineer</b> · Full-Stack Developer · AI &amp; Machine Learning</p>
 
 <h3 align="center">Connect with Me</h3>
 
@@ -21,7 +17,7 @@
 
 ### About
 
-Full-stack developer and Systems Analyst with a background in **Artificial Intelligence** and **Machine Learning** applied to **Computer Vision**. I build across the front end and back end, and I prefer to understand a problem in depth before proposing a solution.
+Software Engineer and full-stack developer with a background in **Artificial Intelligence** and **Machine Learning** applied to **Computer Vision**. I build across the front end and back end, and I prefer to understand a problem in depth before proposing a solution.
 
 - **Education:** Systems Analysis and Development — Catholic University of Pelotas (UCPel)
 - **Research:** AI for brain tumor detection and classification
@@ -140,25 +136,7 @@ Machine Learning and Deep Learning applied to Computer Vision, focused on detect
 ### GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rodrigomillerdev&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&bg_color=00000000&title_color=00E676&icon_color=00E676&text_color=8B949E&hide_border=true" alt="GitHub stats" />
-</p>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomillerdev&layout=compact&langs_count=8&bg_color=00000000&title_color=00E676&icon_color=00E676&text_color=8B949E&hide_border=true" alt="Top languages" />
-</p>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rodrigomillerdev&hide_border=true&background=00000000&ring=00E676&fire=00E676&currStreakNum=00E676&currStreakLabel=00E676&sideNums=00C853&sideLabels=8B949E&dates=8B949E&stroke=00E67644&locale=en" alt="Contribution streak" />
-</p>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rodrigomillerdev&bg_color=0d1117&color=8B949E&line=00E676&point=CFFFE6&area=true&area_color=00E676&title_color=00E676&hide_border=true&radius=8" width="100%" alt="Contribution graph" />
 </p>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
