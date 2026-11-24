@@ -11,38 +11,38 @@
 <p align="center">
   <a href="mailto:rodrigomiller.developer@gmail.com" title="E-mail"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" height="48" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/rodrigo-miller-170340233" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="48" alt="LinkedIn" /></a>
-  <a href="https://" title="Portfólio"><img src="./assets/portfolio-icon.svg" width="48" height="48" alt="Portfólio" /></a>
+  <a href="https://" title="Portfolio"><img src="./assets/portfolio-icon.svg" width="48" height="48" alt="Portfolio" /></a>
 </p>
 
-<img src="./assets/divider-matrix.svg" width="100%" alt="" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-### Sobre
+### About
 
-Analista e Desenvolvedor de Sistemas e desenvolvedor **fullstack**, com experiência em **Inteligência Artificial** e **Machine Learning** aplicados à **Visão Computacional**. Trabalho do front-end ao back-end e gosto de entender o problema a fundo antes de propor uma solução.
+Full-stack developer and Systems Analyst with a background in **Artificial Intelligence** and **Machine Learning** applied to **Computer Vision**. I build across the front end and back end, and I prefer to understand a problem in depth before proposing a solution.
 
-- **Formação:** Análise e Desenvolvimento de Sistemas — Universidade Católica de Pelotas (UCPel)
-- **Pesquisa:** IA para detecção e classificação de tumores cerebrais
-- **Foco atual:** React, Next.js, Node.js e TypeScript
-- **Status:** aberto a oportunidades e colaborações
+- **Education:** Systems Analysis and Development — Catholic University of Pelotas (UCPel)
+- **Research:** AI for brain tumor detection and classification
+- **Current focus:** React, Next.js, Node.js and TypeScript
+- **Status:** open to opportunities and collaborations
 
 <details>
-<summary><b>Iniciação Científica — IA aplicada ao diagnóstico médico</b></summary>
+<summary><b>Undergraduate research — AI for medical diagnosis</b></summary>
 <br>
 
-Pesquisa em Machine Learning e Deep Learning aplicados à Visão Computacional, com foco na detecção e classificação de tumores cerebrais e no apoio ao diagnóstico médico.
+Machine Learning and Deep Learning applied to Computer Vision, focused on detecting and classifying brain tumors to support medical diagnosis.
 
-- Filtros de pré-processamento de imagens para otimização dos dados
-- Normalização e análise de dados para o treinamento de modelos
+- Image pre-processing filters to improve data quality
+- Data normalization and analysis for model training
 - **Machine Learning:** SVM, Logistic Regression, Perceptron, Multilayer Perceptron
 - **Deep Learning:** Neural Networks, CNN, Transfer Learning
 
 </details>
 
-<img src="./assets/divider-matrix.svg" width="100%" alt="" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ### Stack
 
-**IA & Ciência de Dados**
+**AI & Data Science**
 
 <p>
   <a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?theme=dark&i=python" width="48" height="48" alt="Python" /></a>
@@ -94,7 +94,7 @@ Pesquisa em Machine Learning e Deep Learning aplicados à Visão Computacional, 
   <a href="https://graphql.org/" title="GraphQL"><img src="https://skillicons.dev/icons?theme=dark&i=graphql" width="48" height="48" alt="GraphQL" /></a>
 </p>
 
-**Bancos de Dados**
+**Databases**
 
 <p>
   <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://skillicons.dev/icons?theme=dark&i=postgres" width="48" height="48" alt="PostgreSQL" /></a>
@@ -119,7 +119,7 @@ Pesquisa em Machine Learning e Deep Learning aplicados à Visão Computacional, 
   <a href="https://aws.amazon.com/" title="AWS"><img src="https://skillicons.dev/icons?theme=dark&i=aws" width="48" height="48" alt="AWS" /></a>
 </p>
 
-**Ferramentas**
+**Tools**
 
 <p>
   <a href="https://code.visualstudio.com/" title="VS Code"><img src="https://skillicons.dev/icons?theme=dark&i=vscode" width="48" height="48" alt="VS Code" /></a>
@@ -129,30 +129,24 @@ Pesquisa em Machine Learning e Deep Learning aplicados à Visão Computacional, 
   <a href="https://obsidian.md/" title="Obsidian"><img src="https://skillicons.dev/icons?theme=dark&i=obsidian" width="48" height="48" alt="Obsidian" /></a>
 </p>
 
-<img src="./assets/divider-matrix.svg" width="100%" alt="" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-### Estatísticas
+### GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodrigomillerdev&theme=github_dark" width="100%" alt="Resumo do perfil" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rodrigomillerdev&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&bg_color=00000000&title_color=00E676&icon_color=00E676&text_color=8B949E&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomillerdev&layout=compact&langs_count=8&bg_color=00000000&title_color=00E676&icon_color=00E676&text_color=8B949E&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rodrigomillerdev&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&bg_color=00000000&title_color=00E676&icon_color=00E676&text_color=8B949E&hide_border=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomillerdev&layout=compact&langs_count=8&bg_color=00000000&title_color=00E676&icon_color=00E676&text_color=8B949E&hide_border=true" alt="Linguagens mais usadas" />
+  <img src="https://streak-stats.demolab.com?user=rodrigomillerdev&hide_border=true&background=00000000&ring=00E676&fire=00E676&currStreakNum=00E676&currStreakLabel=00E676&sideNums=00C853&sideLabels=8B949E&dates=8B949E&stroke=00E67644&locale=en" alt="Contribution streak" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rodrigomillerdev&hide_border=true&background=00000000&ring=00E676&fire=00E676&currStreakNum=00E676&currStreakLabel=00E676&sideNums=00C853&sideLabels=8B949E&dates=8B949E&stroke=00E67644&locale=pt_BR" alt="Sequência de contribuições" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rodrigomillerdev&bg_color=0d1117&color=8B949E&line=00E676&point=CFFFE6&area=true&area_color=00E676&title_color=00E676&hide_border=true&radius=8" width="100%" alt="Contribution graph" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rodrigomillerdev&bg_color=0d1117&color=8B949E&line=00E676&point=CFFFE6&area=true&area_color=00E676&title_color=00E676&hide_border=true&radius=8" width="100%" alt="Gráfico de atividade" />
-</p>
-
-<img src="./assets/divider-matrix.svg" width="100%" alt="" />
-
-<img src="./assets/footer-matrix.svg" width="100%" alt="Obrigado pela visita" />
+<img src="./assets/footer-matrix.svg" width="100%" alt="Thanks for visiting" />
 
 <p align="center">
   <a href="mailto:rodrigomiller.developer@gmail.com" title="E-mail"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" height="48" alt="Gmail" /></a>
