@@ -1,0 +1,3 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 256 256" role="img" aria-label="Seaborn"><title>Seaborn</title><rect width="256" height="256" rx="60" fill="#242938"/><path d="M44 196 C80 196 92 72 128 72 C164 72 176 196 212 196" fill="none" stroke="#6FA0E0" stroke-width="16" stroke-linecap="round"/>
+<path d="M44 196 C88 196 110 120 150 120 C184 120 196 196 212 196" fill="none" stroke="#F29B5B" stroke-width="12" stroke-linecap="round" opacity=".9"/>
+<line x1="40" y1="206" x2="216" y2="206" stroke="#8B949E" stroke-width="6" stroke-linecap="round"/></svg>

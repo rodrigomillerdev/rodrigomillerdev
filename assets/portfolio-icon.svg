@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 256 256" role="img" aria-label="Portfólio"><title>Portfólio</title><rect width="256" height="256" rx="60" fill="#242938"/><g fill="none" stroke="#00E676" stroke-width="14" stroke-linejoin="round" stroke-linecap="round">
+<rect x="52" y="88" width="152" height="108" rx="16"/>
+<path d="M100 88 V72 a12 12 0 0 1 12 -12 h32 a12 12 0 0 1 12 12 V88"/>
+<path d="M52 134 H204"/></g>
+<rect x="116" y="124" width="24" height="22" rx="5" fill="#00E676"/></svg>
