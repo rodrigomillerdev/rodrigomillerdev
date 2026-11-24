@@ -43,92 +43,95 @@ Machine Learning and Deep Learning applied to Computer Vision, focused on detect
 
 ### Stack
 
-**AI & Data Science**
-
-<p>
-  <a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?theme=dark&i=python" width="48" height="48" alt="Python" /></a>
-  <a href="https://pytorch.org/" title="PyTorch"><img src="https://skillicons.dev/icons?theme=dark&i=pytorch" width="48" height="48" alt="PyTorch" /></a>
-  <a href="https://www.tensorflow.org/" title="TensorFlow"><img src="https://skillicons.dev/icons?theme=dark&i=tensorflow" width="48" height="48" alt="TensorFlow" /></a>
-  <a href="https://keras.io/" title="Keras"><img src="./assets/icons/keras.svg" width="48" height="48" alt="Keras" /></a>
-  <a href="https://scikit-learn.org/" title="scikit-learn"><img src="https://skillicons.dev/icons?theme=dark&i=sklearn" width="48" height="48" alt="scikit-learn" /></a>
-  <a href="https://opencv.org/" title="OpenCV"><img src="https://skillicons.dev/icons?theme=dark&i=opencv" width="48" height="48" alt="OpenCV" /></a>
-  <a href="https://pandas.pydata.org/" title="Pandas"><img src="./assets/icons/pandas.svg" width="48" height="48" alt="Pandas" /></a>
-  <a href="https://numpy.org/" title="NumPy"><img src="./assets/icons/numpy.svg" width="48" height="48" alt="NumPy" /></a>
-  <a href="https://plotly.com/" title="Plotly"><img src="./assets/icons/plotly.svg" width="48" height="48" alt="Plotly" /></a>
-  <a href="https://seaborn.pydata.org/" title="Seaborn"><img src="./assets/icons/seaborn.svg" width="48" height="48" alt="Seaborn" /></a>
-  <a href="https://jupyter.org/" title="Jupyter"><img src="./assets/icons/jupyter.svg" width="48" height="48" alt="Jupyter" /></a>
-  <a href="https://colab.research.google.com/" title="Google Colab"><img src="./assets/icons/googlecolab.svg" width="48" height="48" alt="Google Colab" /></a>
-  <a href="https://huggingface.co/" title="Hugging Face"><img src="./assets/icons/huggingface.svg" width="48" height="48" alt="Hugging Face" /></a>
-  <a href="https://www.langchain.com/" title="LangChain"><img src="./assets/icons/langchain.svg" width="48" height="48" alt="LangChain" /></a>
-  <a href="https://www.anaconda.com/" title="Anaconda"><img src="https://skillicons.dev/icons?theme=dark&i=anaconda" width="48" height="48" alt="Anaconda" /></a>
-  <a href="https://julialang.org/" title="Julia"><img src="https://skillicons.dev/icons?theme=dark&i=julia" width="48" height="48" alt="Julia" /></a>
-</p>
-
-**Front-end**
-
-<p>
-  <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://skillicons.dev/icons?theme=dark&i=ts" width="48" height="48" alt="TypeScript" /></a>
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?theme=dark&i=js" width="48" height="48" alt="JavaScript" /></a>
-  <a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?theme=dark&i=react" width="48" height="48" alt="React" /></a>
-  <a href="https://nextjs.org/" title="Next.js"><img src="https://skillicons.dev/icons?theme=dark&i=nextjs" width="48" height="48" alt="Next.js" /></a>
-  <a href="https://vuejs.org/" title="Vue.js"><img src="https://skillicons.dev/icons?theme=dark&i=vue" width="48" height="48" alt="Vue.js" /></a>
-  <a href="https://vitejs.dev/" title="Vite"><img src="https://skillicons.dev/icons?theme=dark&i=vite" width="48" height="48" alt="Vite" /></a>
-  <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://skillicons.dev/icons?theme=dark&i=tailwind" width="48" height="48" alt="Tailwind CSS" /></a>
-  <a href="https://styled-components.com/" title="styled-components"><img src="https://skillicons.dev/icons?theme=dark&i=styledcomponents" width="48" height="48" alt="styled-components" /></a>
-  <a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://skillicons.dev/icons?theme=dark&i=bootstrap" width="48" height="48" alt="Bootstrap" /></a>
-  <a href="https://developer.mozilla.org/docs/Web/HTML" title="HTML"><img src="https://skillicons.dev/icons?theme=dark&i=html" width="48" height="48" alt="HTML" /></a>
-  <a href="https://developer.mozilla.org/docs/Web/CSS" title="CSS"><img src="https://skillicons.dev/icons?theme=dark&i=css" width="48" height="48" alt="CSS" /></a>
-  <a href="https://www.figma.com/" title="Figma"><img src="https://skillicons.dev/icons?theme=dark&i=figma" width="48" height="48" alt="Figma" /></a>
-</p>
-
-**Back-end**
-
-<p>
-  <a href="https://nodejs.org/" title="Node.js"><img src="https://skillicons.dev/icons?theme=dark&i=nodejs" width="48" height="48" alt="Node.js" /></a>
-  <a href="https://expressjs.com/" title="Express"><img src="https://skillicons.dev/icons?theme=dark&i=express" width="48" height="48" alt="Express" /></a>
-  <a href="https://nestjs.com/" title="NestJS"><img src="https://skillicons.dev/icons?theme=dark&i=nestjs" width="48" height="48" alt="NestJS" /></a>
-  <a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="https://skillicons.dev/icons?theme=dark&i=fastapi" width="48" height="48" alt="FastAPI" /></a>
-  <a href="https://www.djangoproject.com/" title="Django"><img src="https://skillicons.dev/icons?theme=dark&i=django" width="48" height="48" alt="Django" /></a>
-  <a href="https://flask.palletsprojects.com/" title="Flask"><img src="https://skillicons.dev/icons?theme=dark&i=flask" width="48" height="48" alt="Flask" /></a>
-  <a href="https://www.php.net/" title="PHP"><img src="https://skillicons.dev/icons?theme=dark&i=php" width="48" height="48" alt="PHP" /></a>
-  <a href="https://laravel.com/" title="Laravel"><img src="https://skillicons.dev/icons?theme=dark&i=laravel" width="48" height="48" alt="Laravel" /></a>
-  <a href="https://graphql.org/" title="GraphQL"><img src="https://skillicons.dev/icons?theme=dark&i=graphql" width="48" height="48" alt="GraphQL" /></a>
-</p>
-
-**Databases**
-
-<p>
-  <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://skillicons.dev/icons?theme=dark&i=postgres" width="48" height="48" alt="PostgreSQL" /></a>
-  <a href="https://www.mysql.com/" title="MySQL"><img src="https://skillicons.dev/icons?theme=dark&i=mysql" width="48" height="48" alt="MySQL" /></a>
-  <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://skillicons.dev/icons?theme=dark&i=mongodb" width="48" height="48" alt="MongoDB" /></a>
-  <a href="https://redis.io/" title="Redis"><img src="https://skillicons.dev/icons?theme=dark&i=redis" width="48" height="48" alt="Redis" /></a>
-  <a href="https://www.prisma.io/" title="Prisma"><img src="https://skillicons.dev/icons?theme=dark&i=prisma" width="48" height="48" alt="Prisma" /></a>
-  <a href="https://supabase.com/" title="Supabase"><img src="https://skillicons.dev/icons?theme=dark&i=supabase" width="48" height="48" alt="Supabase" /></a>
-  <a href="https://firebase.google.com/" title="Firebase"><img src="https://skillicons.dev/icons?theme=dark&i=firebase" width="48" height="48" alt="Firebase" /></a>
-</p>
-
-**DevOps & Cloud**
-
-<p>
-  <a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?theme=dark&i=git" width="48" height="48" alt="Git" /></a>
-  <a href="https://github.com/" title="GitHub"><img src="https://skillicons.dev/icons?theme=dark&i=github" width="48" height="48" alt="GitHub" /></a>
-  <a href="https://github.com/features/actions" title="GitHub Actions"><img src="https://skillicons.dev/icons?theme=dark&i=githubactions" width="48" height="48" alt="GitHub Actions" /></a>
-  <a href="https://www.docker.com/" title="Docker"><img src="https://skillicons.dev/icons?theme=dark&i=docker" width="48" height="48" alt="Docker" /></a>
-  <a href="https://www.linux.org/" title="Linux"><img src="https://skillicons.dev/icons?theme=dark&i=linux" width="48" height="48" alt="Linux" /></a>
-  <a href="https://www.gnu.org/software/bash/" title="Bash"><img src="https://skillicons.dev/icons?theme=dark&i=bash" width="48" height="48" alt="Bash" /></a>
-  <a href="https://vercel.com/" title="Vercel"><img src="https://skillicons.dev/icons?theme=dark&i=vercel" width="48" height="48" alt="Vercel" /></a>
-  <a href="https://aws.amazon.com/" title="AWS"><img src="https://skillicons.dev/icons?theme=dark&i=aws" width="48" height="48" alt="AWS" /></a>
-</p>
-
-**Tools**
-
-<p>
-  <a href="https://code.visualstudio.com/" title="VS Code"><img src="https://skillicons.dev/icons?theme=dark&i=vscode" width="48" height="48" alt="VS Code" /></a>
-  <a href="https://www.jetbrains.com/pycharm/" title="PyCharm"><img src="https://skillicons.dev/icons?theme=dark&i=pycharm" width="48" height="48" alt="PyCharm" /></a>
-  <a href="https://www.postman.com/" title="Postman"><img src="https://skillicons.dev/icons?theme=dark&i=postman" width="48" height="48" alt="Postman" /></a>
-  <a href="https://www.notion.so/" title="Notion"><img src="https://skillicons.dev/icons?theme=dark&i=notion" width="48" height="48" alt="Notion" /></a>
-  <a href="https://obsidian.md/" title="Obsidian"><img src="https://skillicons.dev/icons?theme=dark&i=obsidian" width="48" height="48" alt="Obsidian" /></a>
-</p>
+<table>
+  <tr>
+    <td><b>AI & Data</b></td>
+    <td>
+      <a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?theme=dark&i=python" width="40" height="40" alt="Python" /></a>
+      <a href="https://pytorch.org/" title="PyTorch"><img src="https://skillicons.dev/icons?theme=dark&i=pytorch" width="40" height="40" alt="PyTorch" /></a>
+      <a href="https://www.tensorflow.org/" title="TensorFlow"><img src="https://skillicons.dev/icons?theme=dark&i=tensorflow" width="40" height="40" alt="TensorFlow" /></a>
+      <a href="https://keras.io/" title="Keras"><img src="./assets/icons/keras.svg" width="40" height="40" alt="Keras" /></a>
+      <a href="https://scikit-learn.org/" title="scikit-learn"><img src="https://skillicons.dev/icons?theme=dark&i=sklearn" width="40" height="40" alt="scikit-learn" /></a>
+      <a href="https://opencv.org/" title="OpenCV"><img src="https://skillicons.dev/icons?theme=dark&i=opencv" width="40" height="40" alt="OpenCV" /></a>
+      <a href="https://pandas.pydata.org/" title="Pandas"><img src="./assets/icons/pandas.svg" width="40" height="40" alt="Pandas" /></a>
+      <a href="https://numpy.org/" title="NumPy"><img src="./assets/icons/numpy.svg" width="40" height="40" alt="NumPy" /></a>
+      <a href="https://plotly.com/" title="Plotly"><img src="./assets/icons/plotly.svg" width="40" height="40" alt="Plotly" /></a>
+      <a href="https://seaborn.pydata.org/" title="Seaborn"><img src="./assets/icons/seaborn.svg" width="40" height="40" alt="Seaborn" /></a>
+      <a href="https://jupyter.org/" title="Jupyter"><img src="./assets/icons/jupyter.svg" width="40" height="40" alt="Jupyter" /></a>
+      <a href="https://colab.research.google.com/" title="Google Colab"><img src="./assets/icons/googlecolab.svg" width="40" height="40" alt="Google Colab" /></a>
+      <a href="https://huggingface.co/" title="Hugging Face"><img src="./assets/icons/huggingface.svg" width="40" height="40" alt="Hugging Face" /></a>
+      <a href="https://www.langchain.com/" title="LangChain"><img src="./assets/icons/langchain.svg" width="40" height="40" alt="LangChain" /></a>
+      <a href="https://www.anaconda.com/" title="Anaconda"><img src="https://skillicons.dev/icons?theme=dark&i=anaconda" width="40" height="40" alt="Anaconda" /></a>
+      <a href="https://julialang.org/" title="Julia"><img src="https://skillicons.dev/icons?theme=dark&i=julia" width="40" height="40" alt="Julia" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Front-end</b></td>
+    <td>
+      <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://skillicons.dev/icons?theme=dark&i=ts" width="40" height="40" alt="TypeScript" /></a>
+      <a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?theme=dark&i=js" width="40" height="40" alt="JavaScript" /></a>
+      <a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?theme=dark&i=react" width="40" height="40" alt="React" /></a>
+      <a href="https://nextjs.org/" title="Next.js"><img src="https://skillicons.dev/icons?theme=dark&i=nextjs" width="40" height="40" alt="Next.js" /></a>
+      <a href="https://vuejs.org/" title="Vue.js"><img src="https://skillicons.dev/icons?theme=dark&i=vue" width="40" height="40" alt="Vue.js" /></a>
+      <a href="https://vitejs.dev/" title="Vite"><img src="https://skillicons.dev/icons?theme=dark&i=vite" width="40" height="40" alt="Vite" /></a>
+      <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://skillicons.dev/icons?theme=dark&i=tailwind" width="40" height="40" alt="Tailwind CSS" /></a>
+      <a href="https://styled-components.com/" title="styled-components"><img src="https://skillicons.dev/icons?theme=dark&i=styledcomponents" width="40" height="40" alt="styled-components" /></a>
+      <a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://skillicons.dev/icons?theme=dark&i=bootstrap" width="40" height="40" alt="Bootstrap" /></a>
+      <a href="https://developer.mozilla.org/docs/Web/HTML" title="HTML"><img src="https://skillicons.dev/icons?theme=dark&i=html" width="40" height="40" alt="HTML" /></a>
+      <a href="https://developer.mozilla.org/docs/Web/CSS" title="CSS"><img src="https://skillicons.dev/icons?theme=dark&i=css" width="40" height="40" alt="CSS" /></a>
+      <a href="https://www.figma.com/" title="Figma"><img src="https://skillicons.dev/icons?theme=dark&i=figma" width="40" height="40" alt="Figma" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Back-end</b></td>
+    <td>
+      <a href="https://nodejs.org/" title="Node.js"><img src="https://skillicons.dev/icons?theme=dark&i=nodejs" width="40" height="40" alt="Node.js" /></a>
+      <a href="https://expressjs.com/" title="Express"><img src="https://skillicons.dev/icons?theme=dark&i=express" width="40" height="40" alt="Express" /></a>
+      <a href="https://nestjs.com/" title="NestJS"><img src="https://skillicons.dev/icons?theme=dark&i=nestjs" width="40" height="40" alt="NestJS" /></a>
+      <a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="https://skillicons.dev/icons?theme=dark&i=fastapi" width="40" height="40" alt="FastAPI" /></a>
+      <a href="https://www.djangoproject.com/" title="Django"><img src="https://skillicons.dev/icons?theme=dark&i=django" width="40" height="40" alt="Django" /></a>
+      <a href="https://flask.palletsprojects.com/" title="Flask"><img src="https://skillicons.dev/icons?theme=dark&i=flask" width="40" height="40" alt="Flask" /></a>
+      <a href="https://www.php.net/" title="PHP"><img src="https://skillicons.dev/icons?theme=dark&i=php" width="40" height="40" alt="PHP" /></a>
+      <a href="https://laravel.com/" title="Laravel"><img src="https://skillicons.dev/icons?theme=dark&i=laravel" width="40" height="40" alt="Laravel" /></a>
+      <a href="https://graphql.org/" title="GraphQL"><img src="https://skillicons.dev/icons?theme=dark&i=graphql" width="40" height="40" alt="GraphQL" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://skillicons.dev/icons?theme=dark&i=postgres" width="40" height="40" alt="PostgreSQL" /></a>
+      <a href="https://www.mysql.com/" title="MySQL"><img src="https://skillicons.dev/icons?theme=dark&i=mysql" width="40" height="40" alt="MySQL" /></a>
+      <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://skillicons.dev/icons?theme=dark&i=mongodb" width="40" height="40" alt="MongoDB" /></a>
+      <a href="https://redis.io/" title="Redis"><img src="https://skillicons.dev/icons?theme=dark&i=redis" width="40" height="40" alt="Redis" /></a>
+      <a href="https://www.prisma.io/" title="Prisma"><img src="https://skillicons.dev/icons?theme=dark&i=prisma" width="40" height="40" alt="Prisma" /></a>
+      <a href="https://supabase.com/" title="Supabase"><img src="https://skillicons.dev/icons?theme=dark&i=supabase" width="40" height="40" alt="Supabase" /></a>
+      <a href="https://firebase.google.com/" title="Firebase"><img src="https://skillicons.dev/icons?theme=dark&i=firebase" width="40" height="40" alt="Firebase" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>DevOps</b></td>
+    <td>
+      <a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?theme=dark&i=git" width="40" height="40" alt="Git" /></a>
+      <a href="https://github.com/" title="GitHub"><img src="https://skillicons.dev/icons?theme=dark&i=github" width="40" height="40" alt="GitHub" /></a>
+      <a href="https://github.com/features/actions" title="GitHub Actions"><img src="https://skillicons.dev/icons?theme=dark&i=githubactions" width="40" height="40" alt="GitHub Actions" /></a>
+      <a href="https://www.docker.com/" title="Docker"><img src="https://skillicons.dev/icons?theme=dark&i=docker" width="40" height="40" alt="Docker" /></a>
+      <a href="https://www.linux.org/" title="Linux"><img src="https://skillicons.dev/icons?theme=dark&i=linux" width="40" height="40" alt="Linux" /></a>
+      <a href="https://www.gnu.org/software/bash/" title="Bash"><img src="https://skillicons.dev/icons?theme=dark&i=bash" width="40" height="40" alt="Bash" /></a>
+      <a href="https://vercel.com/" title="Vercel"><img src="https://skillicons.dev/icons?theme=dark&i=vercel" width="40" height="40" alt="Vercel" /></a>
+      <a href="https://aws.amazon.com/" title="AWS"><img src="https://skillicons.dev/icons?theme=dark&i=aws" width="40" height="40" alt="AWS" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>
+      <a href="https://code.visualstudio.com/" title="VS Code"><img src="https://skillicons.dev/icons?theme=dark&i=vscode" width="40" height="40" alt="VS Code" /></a>
+      <a href="https://www.jetbrains.com/pycharm/" title="PyCharm"><img src="https://skillicons.dev/icons?theme=dark&i=pycharm" width="40" height="40" alt="PyCharm" /></a>
+      <a href="https://www.postman.com/" title="Postman"><img src="https://skillicons.dev/icons?theme=dark&i=postman" width="40" height="40" alt="Postman" /></a>
+      <a href="https://www.notion.so/" title="Notion"><img src="https://skillicons.dev/icons?theme=dark&i=notion" width="40" height="40" alt="Notion" /></a>
+      <a href="https://obsidian.md/" title="Obsidian"><img src="https://skillicons.dev/icons?theme=dark&i=obsidian" width="40" height="40" alt="Obsidian" /></a>
+    </td>
+  </tr>
+</table>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
